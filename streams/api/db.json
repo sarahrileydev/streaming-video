@@ -15,6 +15,12 @@
       "description": "This stream has a userId",
       "userId": "114977235995100305749",
       "id": 3
+    },
+    {
+      "title": "Refactored stream",
+      "description": "watch me refactor some components",
+      "userId": "114977235995100305749",
+      "id": 4
     }
   ]
 }
